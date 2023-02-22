@@ -106,8 +106,8 @@ Step 08: Setup Correct **Ruby version**:
 
 ```bash
 brew install ruby@2.7
-rvm install "ruby-2.7.5"
-rvm use 2.7.5
+rvm install "ruby-2.7.6"
+rvm use 2.7.6
 ```
 
 Step 09: **Install Xcode**: React Native requires Xcode to be installed on your Mac to build iOS apps. You can download Xcode from the Mac App Store or from the Apple Developer website.
