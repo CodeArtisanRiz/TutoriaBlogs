@@ -233,3 +233,15 @@ These are some of the most commonly used Git commands. Note that Git has many mo
 ```bash
 git config --global user.email "your@email"
 ```
+
+## Change the last commit message
+
+```bash
+git commit --amend
+```
+
+In your text editor, edit the commit message, and save the commit. Now close the text editor.
+
+```bash
+git push --force
+```
